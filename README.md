@@ -32,3 +32,4 @@ Join Us in Shaping the Future of eSports Recruitment!
 
 This is not just a platform; it’s a movement towards empowering players and teams in the eSports arena. Don’t miss the opportunity to be part of this transformative experience. Let’s connect and make a significant impact in the world of competitive gaming!
 
+![ESports Basic Diagram](https://github.com/OzeryOt/ESports-Promotion/blob/main/ESportsAppDiagram.png?raw=true)
