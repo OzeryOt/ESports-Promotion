@@ -4,7 +4,7 @@ Transforming eSports Recruitment: Introducing Our Innovative Player-Team Connect
 
 In the rapidly evolving world of eSports, the demand for top talent is skyrocketing, and our platform is here to facilitate seamless connections between aspiring players and competitive teams. This platform is designed to revolutionize the recruitment landscape, ensuring that both players and teams can find their perfect match efficiently and securely.
 
-Site: https://esports.yigite.com.tr/
+Site: <a href="https://esports.yigite.com.tr/" target="_blank">Open Web Site</a>
 
 For Teams:
 
@@ -31,3 +31,4 @@ Technologies Utilized:
 Join Us in Shaping the Future of eSports Recruitment!
 
 This is not just a platform; it’s a movement towards empowering players and teams in the eSports arena. Don’t miss the opportunity to be part of this transformative experience. Let’s connect and make a significant impact in the world of competitive gaming!
+
